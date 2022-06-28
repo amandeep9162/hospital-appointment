@@ -1,0 +1,1 @@
+[28-Jun-2022 15:48:51 Asia/Manila] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/wwwmadaan/public_html/scheduler/config.php on line 5

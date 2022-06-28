@@ -1,0 +1,445 @@
+[05-May-2022 14:47:11 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:47:13 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:48:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:48:44 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:48:58 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:00 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:01 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:02 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:02 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:03 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:03 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:03 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:04 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:04 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:04 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:04 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:20 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:27 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:49:40 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:52:03 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:52:07 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:52:08 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:53:13 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:53:13 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:42 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:42 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:46 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:46 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:46 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:46 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:47 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:47 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:47 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:47 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:47 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:47 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:49 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:49 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:54:49 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:54:49 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:55:44 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:55:44 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:36 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:36 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:36 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:41 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:41 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:41 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:48 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:50 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:50 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:50 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:51 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:53 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:58:54 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 16
+[05-May-2022 14:59:22 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:24 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:24 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:24 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:26 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:26 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:26 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:30 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:31 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:31 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:31 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:31 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:31 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 14:59:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:10 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:13 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:14 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:15 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:15 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:15 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:15 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:15 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:24 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:26 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:27 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:31 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:32 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:33 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:33 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:33 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:34 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:34 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:34 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:00:34 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:01:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function cookie_expiration() in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php:19
+Stack trace:
+#0 /home2/wwwmadaan/public_html/scheduler/admin/inc/header.php(2): require_once()
+#1 /home2/wwwmadaan/public_html/scheduler/admin/index.php(4): require_once('/home2/wwwmadaa...')
+#2 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:02:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function cookie_expiration() in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php:19
+Stack trace:
+#0 /home2/wwwmadaan/public_html/scheduler/admin/inc/header.php(2): require_once()
+#1 /home2/wwwmadaan/public_html/scheduler/admin/index.php(4): require_once('/home2/wwwmadaa...')
+#2 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:02:16 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function cookie_expiration() in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php:19
+Stack trace:
+#0 /home2/wwwmadaan/public_html/scheduler/admin/inc/header.php(2): require_once()
+#1 /home2/wwwmadaan/public_html/scheduler/admin/login.php(4): require_once('/home2/wwwmadaa...')
+#2 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:05:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function cookie_expiration() in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php:18
+Stack trace:
+#0 /home2/wwwmadaan/public_html/scheduler/admin/inc/header.php(2): require_once()
+#1 /home2/wwwmadaan/public_html/scheduler/admin/index.php(4): require_once('/home2/wwwmadaa...')
+#2 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 18
+[05-May-2022 15:05:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function cookie_expiration() in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php:18
+Stack trace:
+#0 /home2/wwwmadaan/public_html/scheduler/admin/inc/header.php(2): require_once()
+#1 /home2/wwwmadaan/public_html/scheduler/admin/index.php(4): require_once('/home2/wwwmadaa...')
+#2 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 18
+[05-May-2022 15:05:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function cookie_expiration() in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php:18
+Stack trace:
+#0 /home2/wwwmadaan/public_html/scheduler/admin/inc/header.php(2): require_once()
+#1 /home2/wwwmadaan/public_html/scheduler/admin/index.php(4): require_once('/home2/wwwmadaa...')
+#2 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 18
+[05-May-2022 15:06:10 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 22
+[05-May-2022 15:06:31 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 22
+[05-May-2022 15:06:33 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 22
+[05-May-2022 15:06:33 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 22
+[05-May-2022 15:06:34 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 22
+[05-May-2022 15:06:34 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 22
+[05-May-2022 15:07:52 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:12 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:14 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:14 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:15 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:15 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:08:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 20
+[05-May-2022 15:09:38 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:09:40 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:09:40 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:09:41 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:09:41 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:09:41 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:09:46 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:09:47 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:10:23 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 19
+[05-May-2022 15:11:26 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/login.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:21:35 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:22:18 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 15
+[05-May-2022 15:33:38 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wwwmadaan/public_html/scheduler/admin/index.php:2) in /home2/wwwmadaan/public_html/scheduler/admin/inc/sess_auth.php on line 14
+[05-May-2022 03:08:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/login1.php:27
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/login1.php on line 27
+[05-May-2022 03:08:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/login1.php:27
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/login1.php on line 27
+[05-May-2022 03:10:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:11:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:12:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:13:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:14:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:15:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:15:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:16:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:16:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:26:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:28:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:30:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 03:32:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 05:02:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 06:10:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 22:39:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 23:11:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 23:21:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 23:22:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[05-May-2022 23:49:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[06-May-2022 01:30:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[06-May-2022 01:30:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[06-May-2022 04:13:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[06-May-2022 04:14:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[06-May-2022 04:50:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[07-May-2022 00:01:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[07-May-2022 01:25:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[07-May-2022 03:04:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[08-May-2022 22:43:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[09-May-2022 04:28:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[11-May-2022 00:20:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[11-May-2022 00:25:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[11-May-2022 01:19:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[11-May-2022 01:46:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[12-May-2022 04:01:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[12-May-2022 22:59:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[13-May-2022 01:10:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[13-May-2022 02:24:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[14-May-2022 02:14:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[15-May-2022 23:12:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[16-May-2022 00:38:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[17-May-2022 00:33:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[18-May-2022 01:10:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[19-May-2022 00:30:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[23-May-2022 22:52:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[24-May-2022 22:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[25-May-2022 01:31:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[26-May-2022 05:33:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[27-May-2022 02:58:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[31-May-2022 23:25:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
+[01-Jun-2022 03:53:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/wwwmadaan/public_html/scheduler/admin/mylogin.php on line 35
